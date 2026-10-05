@@ -1,0 +1,6 @@
+{
+  "name": "STUDY HUB AI",
+  "description": "Tanzanian Digital Learning Library - Comprehensive secondary school textbooks (Form 1 to 6), science practicals, curriculum revision, quizzes, and AI Study Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
